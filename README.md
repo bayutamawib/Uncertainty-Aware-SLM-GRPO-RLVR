@@ -1,6 +1,19 @@
 
+<div align="center">
 
----
+# Gemma-Sync
+
+### Distributed Uncertainty-Aware Clinical Reasoning via Gemma 4 E2B
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
+[![Dataset](https://img.shields.io/badge/Dataset-MedQA--USMLE-orange.svg)](https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19913606-blue.svg)](https://doi.org/10.5281/zenodo.19913606)
+[![Model](https://img.shields.io/badge/Model-Gemma%204%20E2B%20IT-red.svg)](https://huggingface.co/google/gemma-4-e2b-it)
+
+**Author:** Narendra Bayutama Wibisono
+
+</div>
 
 ## Abstract
 
