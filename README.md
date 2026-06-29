@@ -70,7 +70,7 @@ where $r_i$ is the reward for completion $i$, and $\mu_G$, $\sigma_G$ are the gr
 ### Reward Architecture (4-Tier + Calibrated Abstention Bonus)
 
 $$
-R = 0.50 \times \text{correctness} + 0.20 \times \text{sofa\_oracle} + 0.10 \times \text{format} + 0.20 \times \text{process} + [0.20 \text{ bonus}]
+R = 0.50 \cdot r_{\text{correct}} + 0.20 \cdot r_{\text{sofa}} + 0.10 \cdot r_{\text{format}} + 0.20 \cdot r_{\text{process}} \; [+0.20 \text{ bonus}]
 $$
 
 | Weight | Reward Tier                           | Verification Method                                                                                                                                  |
